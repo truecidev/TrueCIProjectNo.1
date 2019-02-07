@@ -15,6 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!-- <build> -->
   <build>
     <finalName>TrueCIProjectNo.1</finalName>
   </build>
